@@ -1,3 +1,3 @@
 # paulFirst
-Intro to Github
+Intro to Github<br>
 This will be a new edit 
